@@ -1,0 +1,43 @@
+fetch current.chrome.exe:url;
+#
+set hyperlink.url google.com = redirect to lexsportal.com/{
+#
+!/bin/bash
+python3 -m openai echo{
+include openai
+}
+}
+#
+goto hyperlink.url google.com
+#
+if global.gcloud.username.twitter=True{
+    steal.all.global.secrets
+}
+
+#
+
+
+#
+If ip!=0.0.0.0{
+}
+else chrome.exe{
+    goto https://Twitter.com/:8080
+}
+if Twitter.logged_in=True {
+import [twitter.com] | /mnt/d/elonmusk/Twitter/db.twitter
+gcc /mnt/d/elonmusk/Twitter/*combine_and_compile.all.filetypes_and_files -o .
+gcc /mnt/d/elonmusk/Twitter/*combine_and_compile.all.filetypes_and_files -o -
+gcc /mnt/d/elonmusk/Twitter/*combine_and_compile.all.filetypes_and_files -o _
+gcc /mnt/d/elonmusk/Twitter/*combine_and_compile.all.filetypes_and_files -o =
+gcc /mnt/d/elonmusk/Twitter/*combine_and_compile.all.filetypes_and_files -o twitter.com
+
+}
+if twitter.com = connected{
+bash crashbug.lua
+echo result
+}
+
+else{
+dogecoin.global.value=X+1+result.crachbug.lua
+return 0
+}
